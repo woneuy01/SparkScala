@@ -67,4 +67,46 @@ object PopularMoviesNicer {
   }
   
 }
-
+===========================================
+(Mostro, Il (1994),1)
+(Coldblooded (1995),1)
+(Nemesis 2: Nebula (1995),1)
+(Silence of the Palace, The (Saimt el Qusur) (1994),1)
+(Land and Freedom (Tierra y libertad) (1995),1)
+(Walk in the Sun, A (1945),1)
+(Tainted (1998),1)
+(Homage (1995),1)
+(Mat' i syn (1997),1)
+(Mamma Roma (1962),1)
+(Man from Down Under, The (1943),1)
+(Scream of Stone (Schrei aus Stein) (1991),1)
+(Sliding Doors (1998),1)
+(The Courtyard (1995),1)
+(Hush (1998),1)
+(Farmer & Chase (1995),1)
+(Window to Paris (1994),1)
+(JLG/JLG - autoportrait de décembre (1994),1)
+(Deceiver (1997),1)
+(Shadow of Angels (Schatten der Engel) (1976),1)
+(Jupiter's Wife (1994),1)
+(Normal Life (1996),1)
+(Small Faces (1995),1)
+(Eye of Vichy, The (Oeil de Vichy, L') (1993),1)
+(Hungarian Fairy Tale, A (1987),1)
+(Nobody Loves Me (Keiner liebt mich) (1994),1)
+(King of New York (1990),1)
+(Liebelei (1933),1)
+(Eighth Day, The (1996),1)
+(Desert Winds (1995),1)
+(Other Voices, Other Rooms (1997),1)
+(Gate of Heavenly Peace, The (1995),1)
+(Quartier Mozart (1992),1)
+(Chairman of the Board (1998),1)
+(Girl in the Cadillac (1995),1)
+(Brothers in Trouble (1995),1)
+.
+.
+.
+.
+.
+....................................
