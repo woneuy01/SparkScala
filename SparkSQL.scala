@@ -51,3 +51,30 @@ object SparkSQL {
     spark.stop()
   }
 }
+
+==================================================================================================
+root
+ |-- ID: integer (nullable = false)
+ |-- name: string (nullable = true)
+ |-- age: integer (nullable = false)
+ |-- numFriends: integer (nullable = false)
+
+[21,Miles,19,268]
+[52,Beverly,19,269]
+[54,Brunt,19,5]
+[106,Beverly,18,499]
+[115,Dukat,18,397]
+[133,Quark,19,265]
+[136,Will,19,335]
+[225,Elim,19,106]
+[304,Will,19,404]
+[341,Data,18,326]
+[366,Keiko,19,119]
+[373,Quark,19,272]
+[377,Beverly,18,418]
+[404,Kasidy,18,24]
+[409,Nog,19,267]
+[439,Data,18,417]
+[444,Keiko,18,472]
+[492,Dukat,19,36]
+[494,Kasidy,18,194]
